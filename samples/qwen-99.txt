@@ -1,0 +1,7 @@
+Provider: llama.cpp; starting tick: 12
+[tick 18] Gerrard: Not much, Wayne. Just getting the bar tidy before the afternoon rush.
+[tick 18] Wayne: Aye, it's a fine day to keep things straight, though I wonder if the bar will hold up when the crowd comes.
+[tick 26] Dennis Dineen: The board's been clearing up, and the next round's on me if you're thirsty enough to stay.
+[tick 26] Wayne: Aye, if the board is cleared then let the next round begin, but I'll need a few pints myself before the sun goes down.
+[tick 111] Wayne: I'm just walking through the square as usual, no special meaning in the morning light.
+[tick 111] Gerrard: That's the way it is, Wayne; the light doesn't care if we're real or not, it just breaks on the cobblestones. Don't make it mean more than it does.

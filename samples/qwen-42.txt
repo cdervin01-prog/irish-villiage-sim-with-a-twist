@@ -1,0 +1,9 @@
+Provider: llama.cpp; starting tick: 12
+[tick 27] Gerrard: It's a fine day for a walk, though the heat's getting thick.
+[tick 27] Wayne: Right, the heat is thick today, makes a walk feel like walking through a dream.
+[tick 32] Gerrard: Right, the heat's getting thick today, makes a walk feel like walking through a dream, but I've got a customer to serve before the evening crowd comes in.
+[tick 32] Wayne: Fair enough, Gerrard; I'll head in to keep my end of the bargain.
+[tick 63] Gerrard: Right then, Dennis, it's a bit thick today, but I'll pop out to the market before I head back in.
+[tick 63] Dennis Dineen: It's a fair enough run, Gerrard, just make sure the market isn't too far from the road.
+[tick 111] Wayne: I'm just thinking about the old stories of my folks, how they held onto the land even when the times were hard.
+[tick 111] Gerrard: Tell me about it, I suppose the men and women of old were tougher than we give them credit for in these modern days.

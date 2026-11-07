@@ -1,0 +1,11 @@
+Provider: llama.cpp; starting tick: 12
+[tick 18] Gerrard: You're off to the walk, I see? A good stretch for the legs after a long shift.
+[tick 18] Wayne: Aye, Gerrard, just to clear my head before I head to the fields. Does the air feel different to you, like a trick of the light?
+[tick 28] Dennis Dineen: Aye, the heat's getting thick, Gerrard, just like the air over the square today.
+[tick 28] Gerrard: Aye, the air feels heavy today, Dennis, but not like a trick of the light.
+[tick 80] Gerrard: I'll see you in a while, Dennis.
+[tick 80] Dennis Dineen: Aye, I'll be at the counter, Gerrard. Keep an eye on the till while the customers come in.
+[tick 85] Wayne: Dennis, the summer air feels just a little too crisp for what I'm seeing.
+[tick 85] Dennis Dineen: Aye, the wind's cut the heat from the east, but that's just the season changing, not a trick of the eye.
+[tick 110] Wayne: The sun's warm on the cobblestones, Gerrard, but I see it's just a trick of the light, not the sun itself.
+[tick 110] Gerrard: Fair enough, Wayne. The light plays tricks on us all in this place, but the heat on the skin is real enough for a walk.

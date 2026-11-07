@@ -1,0 +1,40 @@
+{"data":{"max_calls":10,"provider":"llama.cpp","resume":false,"seed_argument":99,"steps":144},"id":1,"tick":12,"type":"run"}
+{"data":{"actor":"gerrard","location":"village_square","recipient":"wayne","topic":"work"},"id":26,"tick":18,"type":"approach"}
+{"data":{"actor":"gerrard","memory_ids":[1]},"id":27,"tick":18,"type":"recall"}
+{"data":{"actor":"gerrard","provider":"llama.cpp","recipient":"wayne","speaker":"Gerrard","text":"Not much, Wayne. Just getting the bar tidy before the afternoon rush.","topic":"work"},"id":28,"tick":18,"type":"speech"}
+{"data":{"actor":"wayne","memory_ids":[4,2]},"id":29,"tick":18,"type":"recall"}
+{"data":{"actor":"wayne","provider":"llama.cpp","recipient":"gerrard","speaker":"Wayne","text":"Aye, it's a fine day to keep things straight, though I wonder if the bar will hold up when the crowd comes.","topic":"work"},"id":30,"tick":18,"type":"speech"}
+{"data":{"actor":"dennis","location":"village_square","recipient":"wayne","topic":"work"},"id":57,"tick":26,"type":"approach"}
+{"data":{"actor":"dennis","memory_ids":[7]},"id":58,"tick":26,"type":"recall"}
+{"data":{"actor":"dennis","provider":"llama.cpp","recipient":"wayne","speaker":"Dennis Dineen","text":"The board's been clearing up, and the next round's on me if you're thirsty enough to stay.","topic":"work"},"id":59,"tick":26,"type":"speech"}
+{"data":{"actor":"wayne","memory_ids":[10,8,5,4,2]},"id":60,"tick":26,"type":"recall"}
+{"data":{"actor":"wayne","provider":"llama.cpp","recipient":"dennis","speaker":"Wayne","text":"Aye, if the board is cleared then let the next round begin, but I'll need a few pints myself before the sun goes down.","topic":"work"},"id":61,"tick":26,"type":"speech"}
+{"data":{"actor":"gerrard","location":"village_square","recipient":"wayne","topic":"parish_and_local_affairs"},"id":79,"tick":31,"type":"approach"}
+{"data":{"actor":"wayne","recipient":"gerrard","willingness":0.3855773919159181},"id":80,"tick":31,"type":"decline"}
+{"data":{"actor":"gerrard","location":"village_square","recipient":"dennis","topic":"weather"},"id":181,"tick":62,"type":"approach"}
+{"data":{"actor":"dennis","recipient":"gerrard","willingness":0.5684112285715306},"id":182,"tick":62,"type":"ignore"}
+{"data":{"actor":"gerrard","location":"village_square","recipient":"wayne","topic":"reality"},"id":189,"tick":64,"type":"approach"}
+{"data":{"actor":"wayne","recipient":"gerrard","willingness":0.4126400341961567},"id":190,"tick":64,"type":"decline"}
+{"data":{"actor":"gerrard","location":"village_square","recipient":"wayne","topic":"weather"},"id":224,"tick":74,"type":"approach"}
+{"data":{"actor":"wayne","recipient":"gerrard","willingness":0.39351266912601046},"id":225,"tick":74,"type":"decline"}
+{"data":{"actor":"dennis","location":"village_square","recipient":"wayne","topic":"parish_and_local_affairs"},"id":240,"tick":78,"type":"approach"}
+{"data":{"actor":"wayne","recipient":"dennis","willingness":0.38500232490219743},"id":241,"tick":78,"type":"decline"}
+{"data":{"actor":"wayne","location":"gerrards_pub","recipient":"gerrard","topic":"parish_and_local_affairs"},"id":273,"tick":86,"type":"approach"}
+{"data":{"actor":"gerrard","recipient":"wayne","willingness":0.41175370692400964},"id":274,"tick":86,"type":"decline"}
+{"data":{"actor":"wayne","location":"dineens_pub","recipient":"dennis","topic":"family"},"id":283,"tick":88,"type":"approach"}
+{"data":{"actor":"dennis","recipient":"wayne","willingness":0.1653454113726739},"id":284,"tick":88,"type":"decline"}
+{"data":{"actor":"wayne","location":"gerrards_pub","recipient":"gerrard","topic":"parish_and_local_affairs"},"id":293,"tick":90,"type":"approach"}
+{"data":{"actor":"gerrard","recipient":"wayne","willingness":0.40075291952315845},"id":294,"tick":90,"type":"decline"}
+{"data":{"actor":"wayne","location":"village_square","recipient":"gerrard","topic":"reality"},"id":360,"tick":111,"type":"approach"}
+{"data":{"actor":"wayne","memory_ids":[53,51,49,48,46,44,43,41]},"id":361,"tick":111,"type":"recall"}
+{"data":{"actor":"wayne","provider":"llama.cpp","recipient":"gerrard","speaker":"Wayne","text":"I'm just walking through the square as usual, no special meaning in the morning light.","topic":"reality"},"id":362,"tick":111,"type":"speech"}
+{"data":{"actor":"gerrard","memory_ids":[56,54,52,50,42,40,30,28]},"id":363,"tick":111,"type":"recall"}
+{"data":{"actor":"gerrard","provider":"llama.cpp","recipient":"wayne","speaker":"Gerrard","text":"That's the way it is, Wayne; the light doesn't care if we're real or not, it just breaks on the cobblestones. Don't make it mean more than it does.","topic":"reality"},"id":364,"tick":111,"type":"speech"}
+{"data":{"actor":"gerrard","location":"village_square","recipient":"wayne","topic":"parish_and_local_affairs"},"id":379,"tick":115,"type":"approach"}
+{"data":{"actor":"wayne","recipient":"gerrard","willingness":0.43341705636871175},"id":380,"tick":115,"type":"decline"}
+{"data":{"actor":"gerrard","location":"village_square","recipient":"wayne","topic":"parish_and_local_affairs"},"id":411,"tick":124,"type":"approach"}
+{"data":{"actor":"wayne","recipient":"gerrard","willingness":0.3787655852683466},"id":412,"tick":124,"type":"decline"}
+{"data":{"actor":"gerrard","location":"village_square","recipient":"wayne","topic":"weather"},"id":424,"tick":127,"type":"approach"}
+{"data":{"actor":"wayne","recipient":"gerrard","willingness":0.36725037338057},"id":425,"tick":127,"type":"decline"}
+{"data":{"actor":"wayne","location":"gerrards_pub","recipient":"gerrard","topic":"work"},"id":447,"tick":132,"type":"approach"}
+{"data":{"actor":"gerrard","recipient":"wayne","willingness":0.4310715930175279},"id":448,"tick":132,"type":"decline"}
