@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Update GitHub Actions checkout to v6, which uses Node.js 24, to remove the Node.js 20 deprecation warning.
+
 ## 0.1.0 - 2026-11-07
 
 - Add a C++20, text-only three-person experiment following the owner's construction brief.
