@@ -1,0 +1,49 @@
+{"data":{"max_calls":12,"provider":"llama.cpp","resume":false,"seed_argument":7,"steps":144},"id":1,"tick":12,"type":"run"}
+{"data":{"actor":"gerrard","location":"village_square","recipient":"wayne","topic":"parish_and_local_affairs"},"id":25,"tick":18,"type":"approach"}
+{"data":{"actor":"gerrard","memory_ids":[1]},"id":26,"tick":18,"type":"recall"}
+{"data":{"actor":"gerrard","provider":"llama.cpp","recipient":"wayne","speaker":"Gerrard","text":"You're off to the walk, I see? A good stretch for the legs after a long shift.","topic":"parish_and_local_affairs"},"id":27,"tick":18,"type":"speech"}
+{"data":{"actor":"wayne","memory_ids":[4,2]},"id":28,"tick":18,"type":"recall"}
+{"data":{"actor":"wayne","provider":"llama.cpp","recipient":"gerrard","speaker":"Wayne","text":"Aye, Gerrard, just to clear my head before I head to the fields. Does the air feel different to you, like a trick of the light?","topic":"parish_and_local_affairs"},"id":29,"tick":18,"type":"speech"}
+{"data":{"actor":"dennis","location":"village_square","recipient":"gerrard","topic":"weather"},"id":64,"tick":28,"type":"approach"}
+{"data":{"actor":"dennis","memory_ids":[7]},"id":65,"tick":28,"type":"recall"}
+{"data":{"actor":"dennis","provider":"llama.cpp","recipient":"gerrard","speaker":"Dennis Dineen","text":"Aye, the heat's getting thick, Gerrard, just like the air over the square today.","topic":"weather"},"id":66,"tick":28,"type":"speech"}
+{"data":{"actor":"gerrard","memory_ids":[10,8,6,3,1]},"id":67,"tick":28,"type":"recall"}
+{"data":{"actor":"gerrard","provider":"llama.cpp","recipient":"dennis","speaker":"Gerrard","text":"Aye, the air feels heavy today, Dennis, but not like a trick of the light.","topic":"weather"},"id":68,"tick":28,"type":"speech"}
+{"data":{"actor":"dennis","location":"village_square","recipient":"wayne","topic":"weather"},"id":77,"tick":30,"type":"approach"}
+{"data":{"actor":"wayne","recipient":"dennis","willingness":0.38255566987508294},"id":78,"tick":30,"type":"decline"}
+{"data":{"actor":"gerrard","location":"village_square","recipient":"wayne","topic":"parish_and_local_affairs"},"id":128,"tick":45,"type":"approach"}
+{"data":{"actor":"wayne","recipient":"gerrard","willingness":0.6796951727949775},"id":129,"tick":45,"type":"ignore"}
+{"data":{"actor":"gerrard","location":"village_square","recipient":"wayne","topic":"weather"},"id":192,"tick":65,"type":"approach"}
+{"data":{"actor":"wayne","recipient":"gerrard","willingness":0.41442996100692653},"id":193,"tick":65,"type":"decline"}
+{"data":{"actor":"gerrard","location":"village_square","recipient":"dennis","topic":"family"},"id":233,"tick":77,"type":"approach"}
+{"data":{"actor":"dennis","recipient":"gerrard","willingness":0.5668573085234323},"id":234,"tick":77,"type":"ignore"}
+{"data":{"actor":"gerrard","location":"dineens_pub","recipient":"dennis","topic":"parish_and_local_affairs"},"id":245,"tick":80,"type":"approach"}
+{"data":{"actor":"gerrard","memory_ids":[31,30,28,26,24,22,20,18]},"id":246,"tick":80,"type":"recall"}
+{"data":{"actor":"gerrard","provider":"llama.cpp","recipient":"dennis","speaker":"Gerrard","text":"I'll see you in a while, Dennis.","topic":"parish_and_local_affairs"},"id":247,"tick":80,"type":"speech"}
+{"data":{"actor":"dennis","memory_ids":[34,32,29,27,15,13,12,9]},"id":248,"tick":80,"type":"recall"}
+{"data":{"actor":"dennis","provider":"llama.cpp","recipient":"gerrard","speaker":"Dennis Dineen","text":"Aye, I'll be at the counter, Gerrard. Keep an eye on the till while the customers come in.","topic":"parish_and_local_affairs"},"id":249,"tick":80,"type":"speech"}
+{"data":{"actor":"wayne","location":"dineens_pub","recipient":"dennis","topic":"reality"},"id":271,"tick":85,"type":"approach"}
+{"data":{"actor":"wayne","memory_ids":[39,38,37,25,23,21,19,17]},"id":272,"tick":85,"type":"recall"}
+{"data":{"actor":"wayne","provider":"llama.cpp","recipient":"dennis","speaker":"Wayne","text":"Dennis, the summer air feels just a little too crisp for what I'm seeing.","topic":"reality"},"id":273,"tick":85,"type":"speech"}
+{"data":{"actor":"dennis","memory_ids":[42,40,35,34,32,29,27,15]},"id":274,"tick":85,"type":"recall"}
+{"data":{"actor":"dennis","provider":"llama.cpp","recipient":"wayne","speaker":"Dennis Dineen","text":"Aye, the wind's cut the heat from the east, but that's just the season changing, not a trick of the eye.","topic":"reality"},"id":275,"tick":85,"type":"speech"}
+{"data":{"actor":"wayne","location":"dineens_pub","recipient":"dennis","topic":"weather"},"id":288,"tick":88,"type":"approach"}
+{"data":{"actor":"dennis","recipient":"wayne","willingness":0.1617035865850992},"id":289,"tick":88,"type":"decline"}
+{"data":{"actor":"wayne","location":"village_square","recipient":"dennis","topic":"parish_and_local_affairs"},"id":306,"tick":92,"type":"approach"}
+{"data":{"actor":"dennis","recipient":"wayne","willingness":0.5306834055697331},"id":307,"tick":92,"type":"ignore"}
+{"data":{"actor":"wayne","location":"village_square","recipient":"gerrard","topic":"reality"},"id":362,"tick":110,"type":"approach"}
+{"data":{"actor":"wayne","memory_ids":[55,53,51,50,48,46,45,44]},"id":363,"tick":110,"type":"recall"}
+{"data":{"actor":"wayne","provider":"llama.cpp","recipient":"gerrard","speaker":"Wayne","text":"The sun's warm on the cobblestones, Gerrard, but I see it's just a trick of the light, not the sun itself.","topic":"reality"},"id":364,"tick":110,"type":"speech"}
+{"data":{"actor":"gerrard","memory_ids":[58,56,36,33,31,30,28,26]},"id":365,"tick":110,"type":"recall"}
+{"data":{"actor":"gerrard","provider":"llama.cpp","recipient":"wayne","speaker":"Gerrard","text":"Fair enough, Wayne. The light plays tricks on us all in this place, but the heat on the skin is real enough for a walk.","topic":"reality"},"id":366,"tick":110,"type":"speech"}
+{"data":{"actor":"gerrard","location":"village_square","recipient":"wayne","topic":"weather"},"id":383,"tick":114,"type":"approach"}
+{"data":{"actor":"gerrard","memory_ids":[61,59,58,56,36,33,31,30]},"id":384,"tick":114,"type":"recall"}
+{"data":{"actor":"gerrard","error":"Exact recent speech repetition","provider":"llama.cpp"},"id":385,"tick":114,"type":"dialogue_error"}
+{"data":{"actor":"gerrard","location":"dineens_pub","recipient":"dennis","topic":"parish_and_local_affairs"},"id":440,"tick":129,"type":"approach"}
+{"data":{"actor":"dennis","recipient":"gerrard","willingness":0.17997043307440186},"id":441,"tick":129,"type":"decline"}
+{"data":{"actor":"wayne","location":"dineens_pub","recipient":"dennis","topic":"parish_and_local_affairs"},"id":467,"tick":135,"type":"approach"}
+{"data":{"actor":"dennis","recipient":"wayne","willingness":0.16040651133730066},"id":468,"tick":135,"type":"decline"}
+{"data":{"actor":"wayne","location":"gerrards_pub","recipient":"gerrard","topic":"reality"},"id":477,"tick":137,"type":"approach"}
+{"data":{"actor":"gerrard","recipient":"wayne","willingness":0.43280734251275416},"id":478,"tick":137,"type":"decline"}
+{"data":{"actor":"wayne","location":"village_square","recipient":"dennis","topic":"reality"},"id":492,"tick":141,"type":"approach"}
+{"data":{"actor":"dennis","recipient":"wayne","willingness":0.5381468208816204},"id":493,"tick":141,"type":"ignore"}

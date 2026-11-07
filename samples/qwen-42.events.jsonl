@@ -1,0 +1,32 @@
+{"data":{"max_calls":10,"provider":"llama.cpp","resume":false,"seed_argument":42,"steps":144},"id":1,"tick":12,"type":"run"}
+{"data":{"actor":"gerrard","location":"village_square","recipient":"wayne","topic":"reality"},"id":55,"tick":27,"type":"approach"}
+{"data":{"actor":"gerrard","memory_ids":[1]},"id":56,"tick":27,"type":"recall"}
+{"data":{"actor":"gerrard","provider":"llama.cpp","recipient":"wayne","speaker":"Gerrard","text":"It's a fine day for a walk, though the heat's getting thick.","topic":"reality"},"id":57,"tick":27,"type":"speech"}
+{"data":{"actor":"wayne","memory_ids":[4,2]},"id":58,"tick":27,"type":"recall"}
+{"data":{"actor":"wayne","provider":"llama.cpp","recipient":"gerrard","speaker":"Wayne","text":"Right, the heat is thick today, makes a walk feel like walking through a dream.","topic":"reality"},"id":59,"tick":27,"type":"speech"}
+{"data":{"actor":"gerrard","location":"dineens_pub","recipient":"wayne","topic":"work"},"id":80,"tick":32,"type":"approach"}
+{"data":{"actor":"gerrard","memory_ids":[9,7,6,3,1]},"id":81,"tick":32,"type":"recall"}
+{"data":{"actor":"gerrard","provider":"llama.cpp","recipient":"wayne","speaker":"Gerrard","text":"Right, the heat's getting thick today, makes a walk feel like walking through a dream, but I've got a customer to serve before the evening crowd comes in.","topic":"work"},"id":82,"tick":32,"type":"speech"}
+{"data":{"actor":"wayne","memory_ids":[12,10,8,5,4,2]},"id":83,"tick":32,"type":"recall"}
+{"data":{"actor":"wayne","provider":"llama.cpp","recipient":"gerrard","speaker":"Wayne","text":"Fair enough, Gerrard; I'll head in to keep my end of the bargain.","topic":"work"},"id":84,"tick":32,"type":"speech"}
+{"data":{"actor":"wayne","location":"dineens_pub","recipient":"dennis","topic":"reality"},"id":110,"tick":38,"type":"approach"}
+{"data":{"actor":"dennis","recipient":"wayne","willingness":0.1508670637146683},"id":111,"tick":38,"type":"decline"}
+{"data":{"actor":"gerrard","location":"village_square","recipient":"dennis","topic":"work"},"id":193,"tick":63,"type":"approach"}
+{"data":{"actor":"gerrard","memory_ids":[24,14,11,9,7,6,3,1]},"id":194,"tick":63,"type":"recall"}
+{"data":{"actor":"gerrard","provider":"llama.cpp","recipient":"dennis","speaker":"Gerrard","text":"Right then, Dennis, it's a bit thick today, but I'll pop out to the market before I head back in.","topic":"work"},"id":195,"tick":63,"type":"speech"}
+{"data":{"actor":"dennis","memory_ids":[27,25,21,19]},"id":196,"tick":63,"type":"recall"}
+{"data":{"actor":"dennis","provider":"llama.cpp","recipient":"gerrard","speaker":"Dennis Dineen","text":"It's a fair enough run, Gerrard, just make sure the market isn't too far from the road.","topic":"work"},"id":197,"tick":63,"type":"speech"}
+{"data":{"actor":"dennis","location":"village_square","recipient":"gerrard","topic":"parish_and_local_affairs"},"id":242,"tick":76,"type":"approach"}
+{"data":{"actor":"gerrard","recipient":"dennis","willingness":0.7958229890109233},"id":243,"tick":76,"type":"ignore"}
+{"data":{"actor":"gerrard","location":"dineens_pub","recipient":"wayne","topic":"parish_and_local_affairs"},"id":261,"tick":81,"type":"approach"}
+{"data":{"actor":"wayne","recipient":"gerrard","willingness":0.6794740408426988},"id":262,"tick":81,"type":"ignore"}
+{"data":{"actor":"wayne","location":"village_square","recipient":"gerrard","topic":"family"},"id":353,"tick":111,"type":"approach"}
+{"data":{"actor":"wayne","memory_ids":[40,39,37,35,23,22,20,18]},"id":354,"tick":111,"type":"recall"}
+{"data":{"actor":"wayne","provider":"llama.cpp","recipient":"gerrard","speaker":"Wayne","text":"I'm just thinking about the old stories of my folks, how they held onto the land even when the times were hard.","topic":"family"},"id":355,"tick":111,"type":"speech"}
+{"data":{"actor":"gerrard","memory_ids":[43,41,38,36,34,33,31,29]},"id":356,"tick":111,"type":"recall"}
+{"data":{"actor":"gerrard","provider":"llama.cpp","recipient":"wayne","speaker":"Gerrard","text":"Tell me about it, I suppose the men and women of old were tougher than we give them credit for in these modern days.","topic":"family"},"id":357,"tick":111,"type":"speech"}
+{"data":{"actor":"gerrard","location":"dineens_pub","recipient":"dennis","topic":"parish_and_local_affairs"},"id":420,"tick":128,"type":"approach"}
+{"data":{"actor":"dennis","recipient":"gerrard","willingness":0.1822382515133546},"id":421,"tick":128,"type":"decline"}
+{"data":{"actor":"wayne","location":"gerrards_pub","recipient":"gerrard","topic":"reality"},"id":455,"tick":137,"type":"approach"}
+{"data":{"actor":"wayne","memory_ids":[54,53,52,51,45,42,40,39]},"id":456,"tick":137,"type":"recall"}
+{"data":{"actor":"wayne","error":"Exact recent speech repetition","provider":"llama.cpp"},"id":457,"tick":137,"type":"dialogue_error"}

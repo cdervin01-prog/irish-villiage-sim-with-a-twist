@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-07",
+  "source_brief": "owner construction brief v0.1",
+  "model": "Qwen3.5-4B-Q4_K_M.gguf",
+  "model_quantization": "Q4_K - Medium",
+  "llama_cpp_build": "b1-4e910a8",
+  "context_tokens": 4096,
+  "backend": "Vulkan, AMD Polaris 8 GiB",
+  "thinking": false,
+  "temperature": 0.7,
+  "max_tokens_per_turn": 180,
+  "source_hashes": {
+    "config/villagers.json": "fa04db3cfa64e2b991bc7a60522c04bc99be942e8c0d7f253a93f94697f6f8f6",
+    "include/village.hpp": "23e7cdb167605c8a708ff3582f8692669c1b5b3b81d8ac5dcd55bfa7a7eee621",
+    "prompts/dialogue-v1.txt": "97149db2cbfa2d9e210cd2e04895c6b0425c68438429d747cc72552163e3fc2b",
+    "src/dialogue.cpp": "22522558253678369809a030f21d429b6fc98747be555f3ac309a219539d1361",
+    "src/main.cpp": "c242e84abc5ede57da3b81d759083b646b87f9b6c4a28e88b10891c04791325a",
+    "src/memory.cpp": "0a075a4c6cc09e3ee14546bdd64fbbe15f6fba9cead181de6f2606cd33a14086",
+    "src/simulation.cpp": "4f9451d5ba7837a01a5fdac281c029ef84e512c088bc2094d584e727ec5aa1ff",
+    "src/state.cpp": "c0ae6d1370e1468f7c07f7535008537c8cb1e7c1eed26ece90466a946b5c4a98"
+  },
+  "provenance_note": "Source hashes identify the final candidate. Real seeds 7 and 42 were captured before final resume-provider hardening; selection rules, profiles and prompt are identical. Seed 99 used the final build."
+}

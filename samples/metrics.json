@@ -1,0 +1,1001 @@
+[
+  {
+    "run": "mock-summer-42",
+    "counts": {
+      "approach": 10,
+      "decline": 3,
+      "ignore": 2,
+      "interruption": 3,
+      "pub_visit": 14,
+      "recall": 10,
+      "run": 1,
+      "silent_encounter": 25,
+      "social_effect": 10,
+      "speech": 10,
+      "state": 432
+    },
+    "by_actor": {
+      "dennis": {
+        "actions": {
+          "family": 15,
+          "idle": 3,
+          "rest": 52,
+          "walk": 20,
+          "work": 54
+        },
+        "approach": 1,
+        "decline": 3,
+        "final_beliefs": {
+          "catholic_commitment": 0.55,
+          "irish_identity": 0.65,
+          "political_engagement": 0.25,
+          "simulation": 0.12
+        },
+        "initial_beliefs": {
+          "catholic_commitment": 0.55,
+          "irish_identity": 0.65,
+          "political_engagement": 0.25,
+          "simulation": 0.12
+        },
+        "interruption": 3,
+        "recall": 1,
+        "silent_encounter": 9,
+        "social_effect": 1,
+        "speech": 1,
+        "state": 144
+      },
+      "gerrard": {
+        "actions": {
+          "family": 20,
+          "rest": 53,
+          "visit": 4,
+          "walk": 19,
+          "work": 48
+        },
+        "approach": 5,
+        "final_beliefs": {
+          "catholic_commitment": 0.02,
+          "irish_identity": 0.6,
+          "political_engagement": 0.38,
+          "simulation": 0.2
+        },
+        "ignore": 1,
+        "initial_beliefs": {
+          "catholic_commitment": 0.02,
+          "irish_identity": 0.6,
+          "political_engagement": 0.38,
+          "simulation": 0.2
+        },
+        "pub_visit": 3,
+        "recall": 5,
+        "silent_encounter": 8,
+        "social_effect": 5,
+        "speech": 5,
+        "state": 144
+      },
+      "wayne": {
+        "actions": {
+          "family": 10,
+          "idle": 2,
+          "rest": 56,
+          "visit": 13,
+          "walk": 21,
+          "work": 42
+        },
+        "approach": 4,
+        "final_beliefs": {
+          "catholic_commitment": 0.35,
+          "irish_identity": 0.62,
+          "political_engagement": 0.3,
+          "simulation": 0.82
+        },
+        "ignore": 1,
+        "initial_beliefs": {
+          "catholic_commitment": 0.35,
+          "irish_identity": 0.62,
+          "political_engagement": 0.3,
+          "simulation": 0.82
+        },
+        "pub_visit": 11,
+        "recall": 4,
+        "silent_encounter": 8,
+        "social_effect": 4,
+        "speech": 4,
+        "state": 144
+      }
+    },
+    "exact_repeated_speech": 0,
+    "final_tick": 156
+  },
+  {
+    "run": "mock-summer-7",
+    "counts": {
+      "approach": 17,
+      "decline": 6,
+      "ignore": 4,
+      "interruption": 6,
+      "pub_visit": 11,
+      "recall": 14,
+      "run": 1,
+      "silent_encounter": 23,
+      "social_effect": 14,
+      "speech": 14,
+      "state": 432
+    },
+    "by_actor": {
+      "dennis": {
+        "actions": {
+          "family": 13,
+          "idle": 1,
+          "rest": 56,
+          "walk": 20,
+          "work": 54
+        },
+        "approach": 2,
+        "decline": 3,
+        "final_beliefs": {
+          "catholic_commitment": 0.55,
+          "irish_identity": 0.65,
+          "political_engagement": 0.25,
+          "simulation": 0.12
+        },
+        "ignore": 3,
+        "initial_beliefs": {
+          "catholic_commitment": 0.55,
+          "irish_identity": 0.65,
+          "political_engagement": 0.25,
+          "simulation": 0.12
+        },
+        "interruption": 3,
+        "recall": 3,
+        "silent_encounter": 4,
+        "social_effect": 3,
+        "speech": 3,
+        "state": 144
+      },
+      "gerrard": {
+        "actions": {
+          "family": 17,
+          "idle": 5,
+          "rest": 50,
+          "visit": 3,
+          "walk": 21,
+          "work": 48
+        },
+        "approach": 8,
+        "decline": 1,
+        "final_beliefs": {
+          "catholic_commitment": 0.02,
+          "irish_identity": 0.6,
+          "political_engagement": 0.38,
+          "simulation": 0.2
+        },
+        "initial_beliefs": {
+          "catholic_commitment": 0.02,
+          "irish_identity": 0.6,
+          "political_engagement": 0.38,
+          "simulation": 0.2
+        },
+        "interruption": 1,
+        "pub_visit": 2,
+        "recall": 6,
+        "silent_encounter": 11,
+        "social_effect": 6,
+        "speech": 6,
+        "state": 144
+      },
+      "wayne": {
+        "actions": {
+          "family": 7,
+          "idle": 2,
+          "rest": 55,
+          "visit": 14,
+          "walk": 24,
+          "work": 42
+        },
+        "approach": 7,
+        "decline": 2,
+        "final_beliefs": {
+          "catholic_commitment": 0.35,
+          "irish_identity": 0.62,
+          "political_engagement": 0.3,
+          "simulation": 0.82
+        },
+        "ignore": 1,
+        "initial_beliefs": {
+          "catholic_commitment": 0.35,
+          "irish_identity": 0.62,
+          "political_engagement": 0.3,
+          "simulation": 0.82
+        },
+        "interruption": 2,
+        "pub_visit": 9,
+        "recall": 5,
+        "silent_encounter": 8,
+        "social_effect": 5,
+        "speech": 5,
+        "state": 144
+      }
+    },
+    "exact_repeated_speech": 0,
+    "final_tick": 156
+  },
+  {
+    "run": "mock-summer-99",
+    "counts": {
+      "approach": 15,
+      "decline": 11,
+      "ignore": 1,
+      "interruption": 11,
+      "pub_visit": 13,
+      "recall": 6,
+      "run": 1,
+      "silent_encounter": 21,
+      "social_effect": 6,
+      "speech": 6,
+      "state": 432
+    },
+    "by_actor": {
+      "dennis": {
+        "actions": {
+          "family": 16,
+          "idle": 3,
+          "rest": 55,
+          "walk": 16,
+          "work": 54
+        },
+        "approach": 2,
+        "decline": 1,
+        "final_beliefs": {
+          "catholic_commitment": 0.55,
+          "irish_identity": 0.65,
+          "political_engagement": 0.25,
+          "simulation": 0.12
+        },
+        "ignore": 1,
+        "initial_beliefs": {
+          "catholic_commitment": 0.55,
+          "irish_identity": 0.65,
+          "political_engagement": 0.25,
+          "simulation": 0.12
+        },
+        "interruption": 1,
+        "recall": 1,
+        "silent_encounter": 4,
+        "social_effect": 1,
+        "speech": 1,
+        "state": 144
+      },
+      "gerrard": {
+        "actions": {
+          "family": 16,
+          "idle": 6,
+          "rest": 54,
+          "visit": 1,
+          "walk": 19,
+          "work": 48
+        },
+        "approach": 8,
+        "decline": 3,
+        "final_beliefs": {
+          "catholic_commitment": 0.02,
+          "irish_identity": 0.6,
+          "political_engagement": 0.38,
+          "simulation": 0.2
+        },
+        "initial_beliefs": {
+          "catholic_commitment": 0.02,
+          "irish_identity": 0.6,
+          "political_engagement": 0.38,
+          "simulation": 0.2
+        },
+        "interruption": 3,
+        "pub_visit": 1,
+        "recall": 2,
+        "silent_encounter": 5,
+        "social_effect": 2,
+        "speech": 2,
+        "state": 144
+      },
+      "wayne": {
+        "actions": {
+          "family": 13,
+          "idle": 5,
+          "rest": 55,
+          "visit": 15,
+          "walk": 14,
+          "work": 42
+        },
+        "approach": 5,
+        "decline": 7,
+        "final_beliefs": {
+          "catholic_commitment": 0.35,
+          "irish_identity": 0.62,
+          "political_engagement": 0.3,
+          "simulation": 0.82
+        },
+        "initial_beliefs": {
+          "catholic_commitment": 0.35,
+          "irish_identity": 0.62,
+          "political_engagement": 0.3,
+          "simulation": 0.82
+        },
+        "interruption": 7,
+        "pub_visit": 12,
+        "recall": 3,
+        "silent_encounter": 12,
+        "social_effect": 3,
+        "speech": 3,
+        "state": 144
+      }
+    },
+    "exact_repeated_speech": 0,
+    "final_tick": 156
+  },
+  {
+    "run": "mock-winter-42",
+    "counts": {
+      "approach": 13,
+      "decline": 3,
+      "ignore": 3,
+      "interruption": 3,
+      "pub_visit": 13,
+      "recall": 14,
+      "run": 1,
+      "silent_encounter": 21,
+      "social_effect": 14,
+      "speech": 14,
+      "state": 432
+    },
+    "by_actor": {
+      "dennis": {
+        "actions": {
+          "family": 12,
+          "idle": 2,
+          "rest": 55,
+          "walk": 21,
+          "work": 54
+        },
+        "approach": 2,
+        "decline": 2,
+        "final_beliefs": {
+          "catholic_commitment": 0.55,
+          "irish_identity": 0.65,
+          "political_engagement": 0.25,
+          "simulation": 0.12
+        },
+        "initial_beliefs": {
+          "catholic_commitment": 0.55,
+          "irish_identity": 0.65,
+          "political_engagement": 0.25,
+          "simulation": 0.12
+        },
+        "interruption": 2,
+        "recall": 2,
+        "silent_encounter": 6,
+        "social_effect": 2,
+        "speech": 2,
+        "state": 144
+      },
+      "gerrard": {
+        "actions": {
+          "family": 16,
+          "idle": 1,
+          "rest": 52,
+          "visit": 3,
+          "walk": 24,
+          "work": 48
+        },
+        "approach": 6,
+        "final_beliefs": {
+          "catholic_commitment": 0.02,
+          "irish_identity": 0.6,
+          "political_engagement": 0.38,
+          "simulation": 0.2
+        },
+        "ignore": 2,
+        "initial_beliefs": {
+          "catholic_commitment": 0.02,
+          "irish_identity": 0.6,
+          "political_engagement": 0.38,
+          "simulation": 0.2
+        },
+        "pub_visit": 2,
+        "recall": 6,
+        "silent_encounter": 9,
+        "social_effect": 6,
+        "speech": 6,
+        "state": 144
+      },
+      "wayne": {
+        "actions": {
+          "family": 13,
+          "idle": 2,
+          "rest": 55,
+          "visit": 13,
+          "walk": 19,
+          "work": 42
+        },
+        "approach": 5,
+        "decline": 1,
+        "final_beliefs": {
+          "catholic_commitment": 0.35,
+          "irish_identity": 0.62,
+          "political_engagement": 0.3,
+          "simulation": 0.82
+        },
+        "ignore": 1,
+        "initial_beliefs": {
+          "catholic_commitment": 0.35,
+          "irish_identity": 0.62,
+          "political_engagement": 0.3,
+          "simulation": 0.82
+        },
+        "interruption": 1,
+        "pub_visit": 11,
+        "recall": 6,
+        "silent_encounter": 6,
+        "social_effect": 6,
+        "speech": 6,
+        "state": 144
+      }
+    },
+    "exact_repeated_speech": 0,
+    "final_tick": 156
+  },
+  {
+    "run": "mock-winter-7",
+    "counts": {
+      "approach": 9,
+      "decline": 3,
+      "ignore": 1,
+      "interruption": 3,
+      "pub_visit": 9,
+      "recall": 10,
+      "run": 1,
+      "silent_encounter": 28,
+      "social_effect": 10,
+      "speech": 10,
+      "state": 432
+    },
+    "by_actor": {
+      "dennis": {
+        "actions": {
+          "family": 13,
+          "idle": 4,
+          "rest": 54,
+          "walk": 19,
+          "work": 54
+        },
+        "approach": 3,
+        "decline": 1,
+        "final_beliefs": {
+          "catholic_commitment": 0.55,
+          "irish_identity": 0.65,
+          "political_engagement": 0.25,
+          "simulation": 0.12
+        },
+        "ignore": 1,
+        "initial_beliefs": {
+          "catholic_commitment": 0.55,
+          "irish_identity": 0.65,
+          "political_engagement": 0.25,
+          "simulation": 0.12
+        },
+        "interruption": 1,
+        "recall": 2,
+        "silent_encounter": 10,
+        "social_effect": 2,
+        "speech": 2,
+        "state": 144
+      },
+      "gerrard": {
+        "actions": {
+          "family": 16,
+          "idle": 4,
+          "rest": 54,
+          "visit": 3,
+          "walk": 19,
+          "work": 48
+        },
+        "approach": 3,
+        "final_beliefs": {
+          "catholic_commitment": 0.02,
+          "irish_identity": 0.6,
+          "political_engagement": 0.38,
+          "simulation": 0.2
+        },
+        "initial_beliefs": {
+          "catholic_commitment": 0.02,
+          "irish_identity": 0.6,
+          "political_engagement": 0.38,
+          "simulation": 0.2
+        },
+        "pub_visit": 2,
+        "recall": 4,
+        "silent_encounter": 8,
+        "social_effect": 4,
+        "speech": 4,
+        "state": 144
+      },
+      "wayne": {
+        "actions": {
+          "family": 12,
+          "rest": 57,
+          "visit": 9,
+          "walk": 24,
+          "work": 42
+        },
+        "approach": 3,
+        "decline": 2,
+        "final_beliefs": {
+          "catholic_commitment": 0.35,
+          "irish_identity": 0.62,
+          "political_engagement": 0.3,
+          "simulation": 0.82
+        },
+        "initial_beliefs": {
+          "catholic_commitment": 0.35,
+          "irish_identity": 0.62,
+          "political_engagement": 0.3,
+          "simulation": 0.82
+        },
+        "interruption": 2,
+        "pub_visit": 7,
+        "recall": 4,
+        "silent_encounter": 10,
+        "social_effect": 4,
+        "speech": 4,
+        "state": 144
+      }
+    },
+    "exact_repeated_speech": 0,
+    "final_tick": 156
+  },
+  {
+    "run": "mock-winter-99",
+    "counts": {
+      "approach": 14,
+      "decline": 8,
+      "interruption": 8,
+      "pub_visit": 10,
+      "recall": 12,
+      "run": 1,
+      "silent_encounter": 23,
+      "social_effect": 12,
+      "speech": 12,
+      "state": 432
+    },
+    "by_actor": {
+      "dennis": {
+        "actions": {
+          "family": 21,
+          "rest": 54,
+          "walk": 15,
+          "work": 54
+        },
+        "approach": 3,
+        "decline": 1,
+        "final_beliefs": {
+          "catholic_commitment": 0.55,
+          "irish_identity": 0.65,
+          "political_engagement": 0.25,
+          "simulation": 0.12
+        },
+        "initial_beliefs": {
+          "catholic_commitment": 0.55,
+          "irish_identity": 0.65,
+          "political_engagement": 0.25,
+          "simulation": 0.12
+        },
+        "interruption": 1,
+        "recall": 3,
+        "silent_encounter": 4,
+        "social_effect": 3,
+        "speech": 3,
+        "state": 144
+      },
+      "gerrard": {
+        "actions": {
+          "family": 16,
+          "idle": 3,
+          "rest": 53,
+          "visit": 1,
+          "walk": 23,
+          "work": 48
+        },
+        "approach": 7,
+        "decline": 1,
+        "final_beliefs": {
+          "catholic_commitment": 0.02,
+          "irish_identity": 0.6,
+          "political_engagement": 0.38,
+          "simulation": 0.2
+        },
+        "initial_beliefs": {
+          "catholic_commitment": 0.02,
+          "irish_identity": 0.6,
+          "political_engagement": 0.38,
+          "simulation": 0.2
+        },
+        "interruption": 1,
+        "pub_visit": 1,
+        "recall": 4,
+        "silent_encounter": 6,
+        "social_effect": 4,
+        "speech": 4,
+        "state": 144
+      },
+      "wayne": {
+        "actions": {
+          "family": 11,
+          "idle": 2,
+          "rest": 56,
+          "visit": 16,
+          "walk": 17,
+          "work": 42
+        },
+        "approach": 4,
+        "decline": 6,
+        "final_beliefs": {
+          "catholic_commitment": 0.35,
+          "irish_identity": 0.62,
+          "political_engagement": 0.3,
+          "simulation": 0.82
+        },
+        "initial_beliefs": {
+          "catholic_commitment": 0.35,
+          "irish_identity": 0.62,
+          "political_engagement": 0.3,
+          "simulation": 0.82
+        },
+        "interruption": 6,
+        "pub_visit": 9,
+        "recall": 5,
+        "silent_encounter": 13,
+        "social_effect": 5,
+        "speech": 5,
+        "state": 144
+      }
+    },
+    "exact_repeated_speech": 0,
+    "final_tick": 156
+  },
+  {
+    "run": "qwen-42",
+    "counts": {
+      "approach": 9,
+      "decline": 2,
+      "dialogue_error": 1,
+      "ignore": 2,
+      "interruption": 2,
+      "pub_visit": 13,
+      "recall": 9,
+      "run": 1,
+      "silent_encounter": 25,
+      "social_effect": 8,
+      "speech": 8,
+      "state": 432
+    },
+    "by_actor": {
+      "dennis": {
+        "actions": {
+          "family": 15,
+          "idle": 3,
+          "rest": 54,
+          "walk": 18,
+          "work": 54
+        },
+        "approach": 1,
+        "decline": 2,
+        "final_beliefs": {
+          "catholic_commitment": 0.55,
+          "irish_identity": 0.65,
+          "political_engagement": 0.25,
+          "simulation": 0.12
+        },
+        "initial_beliefs": {
+          "catholic_commitment": 0.55,
+          "irish_identity": 0.65,
+          "political_engagement": 0.25,
+          "simulation": 0.12
+        },
+        "interruption": 2,
+        "recall": 1,
+        "silent_encounter": 9,
+        "social_effect": 1,
+        "speech": 1,
+        "state": 144
+      },
+      "gerrard": {
+        "actions": {
+          "family": 19,
+          "rest": 55,
+          "visit": 4,
+          "walk": 18,
+          "work": 48
+        },
+        "approach": 5,
+        "final_beliefs": {
+          "catholic_commitment": 0.02,
+          "irish_identity": 0.6,
+          "political_engagement": 0.38,
+          "simulation": 0.2
+        },
+        "ignore": 1,
+        "initial_beliefs": {
+          "catholic_commitment": 0.02,
+          "irish_identity": 0.6,
+          "political_engagement": 0.38,
+          "simulation": 0.2
+        },
+        "pub_visit": 3,
+        "recall": 4,
+        "silent_encounter": 8,
+        "social_effect": 4,
+        "speech": 4,
+        "state": 144
+      },
+      "wayne": {
+        "actions": {
+          "family": 10,
+          "idle": 2,
+          "rest": 56,
+          "visit": 13,
+          "walk": 21,
+          "work": 42
+        },
+        "approach": 3,
+        "dialogue_error": 1,
+        "final_beliefs": {
+          "catholic_commitment": 0.35,
+          "irish_identity": 0.62,
+          "political_engagement": 0.3,
+          "simulation": 0.82
+        },
+        "ignore": 1,
+        "initial_beliefs": {
+          "catholic_commitment": 0.35,
+          "irish_identity": 0.62,
+          "political_engagement": 0.3,
+          "simulation": 0.82
+        },
+        "pub_visit": 10,
+        "recall": 4,
+        "silent_encounter": 8,
+        "social_effect": 3,
+        "speech": 3,
+        "state": 144
+      }
+    },
+    "exact_repeated_speech": 0,
+    "final_tick": 156
+  },
+  {
+    "run": "qwen-7",
+    "counts": {
+      "approach": 16,
+      "decline": 6,
+      "dialogue_error": 1,
+      "ignore": 4,
+      "interruption": 6,
+      "pub_visit": 12,
+      "recall": 11,
+      "run": 1,
+      "silent_encounter": 26,
+      "social_effect": 10,
+      "speech": 10,
+      "state": 432
+    },
+    "by_actor": {
+      "dennis": {
+        "actions": {
+          "family": 13,
+          "idle": 1,
+          "rest": 54,
+          "walk": 22,
+          "work": 54
+        },
+        "approach": 2,
+        "decline": 3,
+        "final_beliefs": {
+          "catholic_commitment": 0.55,
+          "irish_identity": 0.65,
+          "political_engagement": 0.25,
+          "simulation": 0.12
+        },
+        "ignore": 3,
+        "initial_beliefs": {
+          "catholic_commitment": 0.55,
+          "irish_identity": 0.65,
+          "political_engagement": 0.25,
+          "simulation": 0.12
+        },
+        "interruption": 3,
+        "recall": 3,
+        "silent_encounter": 5,
+        "social_effect": 3,
+        "speech": 3,
+        "state": 144
+      },
+      "gerrard": {
+        "actions": {
+          "family": 15,
+          "idle": 4,
+          "rest": 53,
+          "visit": 3,
+          "walk": 21,
+          "work": 48
+        },
+        "approach": 7,
+        "decline": 1,
+        "dialogue_error": 1,
+        "final_beliefs": {
+          "catholic_commitment": 0.02,
+          "irish_identity": 0.6,
+          "political_engagement": 0.38,
+          "simulation": 0.2
+        },
+        "initial_beliefs": {
+          "catholic_commitment": 0.02,
+          "irish_identity": 0.6,
+          "political_engagement": 0.38,
+          "simulation": 0.2
+        },
+        "interruption": 1,
+        "pub_visit": 2,
+        "recall": 5,
+        "silent_encounter": 11,
+        "social_effect": 4,
+        "speech": 4,
+        "state": 144
+      },
+      "wayne": {
+        "actions": {
+          "family": 8,
+          "idle": 2,
+          "rest": 55,
+          "visit": 15,
+          "walk": 22,
+          "work": 42
+        },
+        "approach": 7,
+        "decline": 2,
+        "final_beliefs": {
+          "catholic_commitment": 0.35,
+          "irish_identity": 0.62,
+          "political_engagement": 0.3,
+          "simulation": 0.82
+        },
+        "ignore": 1,
+        "initial_beliefs": {
+          "catholic_commitment": 0.35,
+          "irish_identity": 0.62,
+          "political_engagement": 0.3,
+          "simulation": 0.82
+        },
+        "interruption": 2,
+        "pub_visit": 10,
+        "recall": 3,
+        "silent_encounter": 10,
+        "social_effect": 3,
+        "speech": 3,
+        "state": 144
+      }
+    },
+    "exact_repeated_speech": 0,
+    "final_tick": 156
+  },
+  {
+    "run": "qwen-99",
+    "counts": {
+      "approach": 15,
+      "decline": 11,
+      "ignore": 1,
+      "interruption": 11,
+      "pub_visit": 13,
+      "recall": 6,
+      "run": 1,
+      "silent_encounter": 21,
+      "social_effect": 6,
+      "speech": 6,
+      "state": 432
+    },
+    "by_actor": {
+      "dennis": {
+        "actions": {
+          "family": 16,
+          "idle": 3,
+          "rest": 55,
+          "walk": 16,
+          "work": 54
+        },
+        "approach": 2,
+        "decline": 1,
+        "final_beliefs": {
+          "catholic_commitment": 0.55,
+          "irish_identity": 0.65,
+          "political_engagement": 0.25,
+          "simulation": 0.12
+        },
+        "ignore": 1,
+        "initial_beliefs": {
+          "catholic_commitment": 0.55,
+          "irish_identity": 0.65,
+          "political_engagement": 0.25,
+          "simulation": 0.12
+        },
+        "interruption": 1,
+        "recall": 1,
+        "silent_encounter": 4,
+        "social_effect": 1,
+        "speech": 1,
+        "state": 144
+      },
+      "gerrard": {
+        "actions": {
+          "family": 16,
+          "idle": 6,
+          "rest": 54,
+          "visit": 1,
+          "walk": 19,
+          "work": 48
+        },
+        "approach": 8,
+        "decline": 3,
+        "final_beliefs": {
+          "catholic_commitment": 0.02,
+          "irish_identity": 0.6,
+          "political_engagement": 0.38,
+          "simulation": 0.2
+        },
+        "initial_beliefs": {
+          "catholic_commitment": 0.02,
+          "irish_identity": 0.6,
+          "political_engagement": 0.38,
+          "simulation": 0.2
+        },
+        "interruption": 3,
+        "pub_visit": 1,
+        "recall": 2,
+        "silent_encounter": 5,
+        "social_effect": 2,
+        "speech": 2,
+        "state": 144
+      },
+      "wayne": {
+        "actions": {
+          "family": 13,
+          "idle": 5,
+          "rest": 55,
+          "visit": 15,
+          "walk": 14,
+          "work": 42
+        },
+        "approach": 5,
+        "decline": 7,
+        "final_beliefs": {
+          "catholic_commitment": 0.35,
+          "irish_identity": 0.62,
+          "political_engagement": 0.3,
+          "simulation": 0.82
+        },
+        "initial_beliefs": {
+          "catholic_commitment": 0.35,
+          "irish_identity": 0.62,
+          "political_engagement": 0.3,
+          "simulation": 0.82
+        },
+        "interruption": 7,
+        "pub_visit": 12,
+        "recall": 3,
+        "silent_encounter": 12,
+        "social_effect": 3,
+        "speech": 3,
+        "state": 144
+      }
+    },
+    "exact_repeated_speech": 0,
+    "final_tick": 156
+  }
+]
